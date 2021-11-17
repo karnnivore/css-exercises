@@ -1,0 +1,12 @@
+button {
+    font-size: 24px;
+}
+
+#click {
+    background-color: black;
+    color: white;
+}
+
+#dontClick {
+    background-color: yellow;
+}
