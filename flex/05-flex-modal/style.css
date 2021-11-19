@@ -64,3 +64,27 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.right-side,
+.left-side {
+  margin: 15px;
+}
+
+.modal {
+  display: flex;
+}
+
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text {
+  margin-bottom: 15px;
+}
